@@ -13,7 +13,7 @@
     }
 
     // Set the recipient email address. Update this to YOUR desired email address.
-    $recipient = "rainbow.moonlight@yahoo.com";
+    $recipient = "youremail@yahoo.com";
 
     // Set the email subject.
     $subject = "New contact from $name";
